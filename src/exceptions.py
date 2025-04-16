@@ -1,1 +1,2 @@
-#agregar codigo
+class NumeroDebeSerPositivo(Exception):
+    pass
